@@ -1,0 +1,6 @@
+# environment
+env/
+
+
+# macOS thing just in case
+.DS_Store
