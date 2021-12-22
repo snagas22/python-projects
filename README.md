@@ -6,4 +6,4 @@ This is a repo for just a bunch of small python projects that I can use for prac
 
 ## Projects:
 1. URL Shortener
-2. ...
+2. Sudoku Solver
