@@ -12,3 +12,7 @@ for coding interviews.
 ### Linked List:
 1. add two numbers
 2. ...
+
+### String:
+1. longest substring without repeating characters
+2. ...
