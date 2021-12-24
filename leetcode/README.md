@@ -15,4 +15,5 @@ for coding interviews.
 
 ### String:
 1. longest substring without repeating characters
-2. ...
+2. zigzag conversion
+3. ...
