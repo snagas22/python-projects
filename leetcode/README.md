@@ -17,4 +17,5 @@ for coding interviews.
 1. longest substring without repeating characters
 2. zigzag conversion
 3. string to integer (atoi)
-4. ...
+4. valid parentheses
+5. ...
