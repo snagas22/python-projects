@@ -7,7 +7,8 @@ for coding interviews.
 
 ### List:
 1. two sum
-2. ...
+2. next permutation (X) (two pointers problem)
+3. ...
 
 ### Linked List:
 1. add two numbers
@@ -18,5 +19,5 @@ for coding interviews.
 2. zigzag conversion
 3. string to integer (atoi)
 4. valid parentheses
-5. generate parentheses
+5. generate parentheses (dfs problem)
 6. ...
