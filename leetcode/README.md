@@ -18,4 +18,5 @@ for coding interviews.
 2. zigzag conversion
 3. string to integer (atoi)
 4. valid parentheses
-5. ...
+5. generate parentheses
+6. ...
