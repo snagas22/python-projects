@@ -9,7 +9,7 @@ for coding interviews.
 1. two sum
 2. next permutation (X) (two pointers problem)
 3. search in rotated sorted array (binary search problem)
-4. ...
+4. search insert position (binary search problem)
 
 ### Linked List:
 1. add two numbers
