@@ -8,7 +8,8 @@ for coding interviews.
 ### List:
 1. two sum
 2. next permutation (X) (two pointers problem)
-3. ...
+3. search in rotated sorted array (binary search problem)
+4. ...
 
 ### Linked List:
 1. add two numbers
