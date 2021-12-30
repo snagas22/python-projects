@@ -1,5 +1,5 @@
 """
-The solution code for string to integer question on leetcode.
+The solution code for permutations question on leetcode.
 
 Author: Shun Nagasaki
 

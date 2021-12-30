@@ -24,4 +24,5 @@ for coding interviews.
 3. string to integer (atoi)
 4. valid parentheses
 5. generate parentheses (dfs problem)
-6. ...
+6. group anagrams
+7. ...
