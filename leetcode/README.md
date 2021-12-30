@@ -7,11 +7,12 @@ for coding interviews.
 
 ### List:
 1. two sum
-2. next permutation (X) (two pointers problem)
+2. next permutation (two pointers problem)
 3. search in rotated sorted array (binary search problem)
 4. search insert position (binary search problem)
 5. combination sum (backtracking/dfs)
-6. ...
+6. permutations (backtracking/dfs)
+7. ...
 
 ### Linked List:
 1. add two numbers
