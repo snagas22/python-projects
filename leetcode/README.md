@@ -35,3 +35,8 @@ for coding interviews.
 ### Math
 1. unique paths
 2. ...
+
+### Dynamic Programming
+1. unique paths (can be done with math as well)
+2. unique paths II
+3. ...
