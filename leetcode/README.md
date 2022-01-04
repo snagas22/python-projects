@@ -31,3 +31,7 @@ for coding interviews.
 1. pow
 2. maximum subarray
 3. ...
+
+### Math
+1. unique paths
+2. ...
