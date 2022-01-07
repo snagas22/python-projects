@@ -12,7 +12,8 @@ for coding interviews.
 4. search insert position (binary search problem)
 5. combination sum (backtracking/dfs)
 6. permutations (backtracking/dfs)
-7. ...
+7. subsets (backtracking/dfs)
+8. ...
 
 ### Linked List:
 1. add two numbers
