@@ -33,7 +33,8 @@ for coding interviews.
 ### Recursion
 1. pow
 2. maximum subarray
-3. ...
+3. validate binary search tree
+4. ...
 
 ### Math
 1. unique paths
