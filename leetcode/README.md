@@ -18,7 +18,8 @@ for coding interviews.
 ### Linked List:
 1. add two numbers
 2. delete duplicates
-3. ...
+3. remove duplicates from sorted list
+4. ...
 
 ### String:
 1. longest substring without repeating characters
