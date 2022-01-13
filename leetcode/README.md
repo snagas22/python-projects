@@ -48,4 +48,5 @@ for coding interviews.
 ### Binary Tree
 1. binary tree level order traversal
 2. binary tree zigzag level order traversal
-3. ...
+3. maximum depth of binary tree
+4. ...
