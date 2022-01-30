@@ -51,4 +51,5 @@ for coding interviews.
 3. maximum depth of binary tree
 4. construct binary tree from preorder and inorder traversal
 5. convert sorted array to BST
-6. ...
+6. minimum depth of binary tree
+7. ...
