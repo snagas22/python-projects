@@ -43,7 +43,8 @@ for coding interviews.
 ### Dynamic Programming
 1. unique paths (can be done with math as well)
 2. unique paths II
-3. ...
+3. best time to buy and sell stock
+4. ...
 
 ### Binary Tree
 1. binary tree level order traversal
