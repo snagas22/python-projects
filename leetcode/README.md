@@ -45,7 +45,8 @@ for coding interviews.
 2. unique paths II
 3. best time to buy and sell stock
 4. best time to buy and sell stock 2
-5. ...
+5. word break
+6. ...
 
 ### Binary Tree
 1. binary tree level order traversal
