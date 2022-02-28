@@ -1,3 +1,11 @@
+"""
+Solution to Contiguous Subarrays practice problem on Meta Recruiting Website
+url: https://www.facebookrecruiting.com/portal/coding_practice_question/?problem_id=226517205173943&ppid=454615229006519&practice_plan=1
+
+Author: Shun Nagasaki
+"""
+
+
 import math
 # Add any extra import statements you may need here
 
