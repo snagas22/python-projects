@@ -30,7 +30,7 @@ def count_subarrays(arr):
 
 
 # more efficient
-def count_subarrays(arr):
+def count_subarrays_2(arr):
   n = len(arr)
   res = [1] * n
   stack = [-1]
