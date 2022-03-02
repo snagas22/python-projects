@@ -19,7 +19,8 @@ for coding interviews.
 1. add two numbers
 2. delete duplicates
 3. remove duplicates from sorted list
-4. ...
+4. linked list cycle
+5. ...
 
 ### String:
 1. longest substring without repeating characters
