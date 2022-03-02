@@ -22,7 +22,8 @@ for coding interviews.
 3. remove duplicates from sorted list
 4. linked list cycle
 5. linked list cycle II
-6. ...
+6. reverse linked list
+7. ...
 
 ### String:
 1. longest substring without repeating characters
