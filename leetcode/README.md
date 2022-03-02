@@ -73,3 +73,14 @@ for coding interviews.
 ### Sliding Window
 1. Minimum Size Subarray Sum
 2. ...
+
+### Others
+1. Move Zeroes
+2. ...
+
+
+### TODO:
+1. meeting rooms
+2. meeting rooms II
+3. paint fence
+4. ...
