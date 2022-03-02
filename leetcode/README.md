@@ -53,7 +53,8 @@ for coding interviews.
 5. word break
 6. houses robber
 7. house robber II
-8. ...
+8. Longest Increasing Subsequence
+9. ...
 
 ### Binary Tree
 1. binary tree level order traversal
