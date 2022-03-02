@@ -82,7 +82,9 @@ for coding interviews.
 
 ### Others
 1. Move Zeroes
-2. ...
+2. Intersection of Two Arrays
+3. atoi
+4. ...
 
 
 ### TODO:
