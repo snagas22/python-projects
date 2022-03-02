@@ -49,7 +49,8 @@ for coding interviews.
 3. best time to buy and sell stock
 4. best time to buy and sell stock 2
 5. word break
-6. ...
+6. houses robber
+7. ...
 
 ### Binary Tree
 1. binary tree level order traversal
