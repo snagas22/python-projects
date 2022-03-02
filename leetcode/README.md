@@ -78,7 +78,8 @@ for coding interviews.
 
 ### Heap/Priority Queues
 1. Top K Frequent Elements
-2. ...
+2. Find K Pairs with Smallest Sums
+3. ...
 
 ### Others
 1. Move Zeroes
