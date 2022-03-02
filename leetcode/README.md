@@ -54,7 +54,8 @@ for coding interviews.
 6. houses robber
 7. house robber II
 8. Longest Increasing Subsequence
-9. ...
+9. Coin Change
+10. ...
 
 ### Binary Tree
 1. binary tree level order traversal
@@ -75,6 +76,10 @@ for coding interviews.
 1. Minimum Size Subarray Sum
 2. ...
 
+### Heap/Priority Queues
+1. Top K Frequent Elements
+2. ...
+
 ### Others
 1. Move Zeroes
 2. ...
@@ -84,4 +89,5 @@ for coding interviews.
 1. meeting rooms
 2. meeting rooms II
 3. paint fence
-4. ...
+4. Number of Connected Components in an Undirected Graph
+5. ...
