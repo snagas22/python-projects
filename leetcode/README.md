@@ -14,7 +14,8 @@ for coding interviews.
 6. permutations (backtracking/dfs)
 7. subsets (backtracking/dfs)
 8. find minimum in rotated sorted array
-9. ...
+9. 
+10. ...
 
 ### Linked List:
 1. add two numbers
@@ -67,3 +68,7 @@ for coding interviews.
 1. word ladder
 2. number of islands
 3. ...
+
+### Sliding Window
+1. Minimum Size Subarray Sum
+2. ...
