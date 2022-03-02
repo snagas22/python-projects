@@ -87,7 +87,8 @@ for coding interviews.
 2. Intersection of Two Arrays
 3. atoi
 4. Is Subsequence
-5. ...
+5. Subarray Sum Equals K
+6. ...
 
 
 ### TODO:
