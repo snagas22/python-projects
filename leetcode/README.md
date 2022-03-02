@@ -13,7 +13,8 @@ for coding interviews.
 5. combination sum (backtracking/dfs)
 6. permutations (backtracking/dfs)
 7. subsets (backtracking/dfs)
-8. ...
+8. find minimum in rotated sorted array
+9. ...
 
 ### Linked List:
 1. add two numbers
