@@ -62,6 +62,7 @@ for coding interviews.
 7. has path sum
 8. ...
 
-### Graphs
+### Graphs/BFS/DFS
 1. word ladder
-2. ...
+2. number of islands
+3. ...
