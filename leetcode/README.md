@@ -33,7 +33,8 @@ for coding interviews.
 4. valid parentheses
 5. generate parentheses (dfs problem)
 6. group anagrams
-7. ...
+7. First Unique Character in a String
+8. ...
 
 ### Recursion
 1. pow
