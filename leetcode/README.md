@@ -40,7 +40,8 @@ for coding interviews.
 1. pow
 2. maximum subarray
 3. validate binary search tree
-4. ...
+4. Kth Symbol in Grammar
+5. ...
 
 ### Math
 1. unique paths
@@ -99,4 +100,5 @@ for coding interviews.
 2. meeting rooms II
 3. paint fence
 4. Number of Connected Components in an Undirected Graph
-5. ...
+5. Split BST
+6. ...
