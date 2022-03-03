@@ -90,6 +90,10 @@ for coding interviews.
 1. Unique Email Address
 2. ...
 
+### Binary Search
+1. Capacity to Ship Packages Within D Days
+2. ...
+
 ### Others
 1. Move Zeroes
 2. Intersection of Two Arrays
