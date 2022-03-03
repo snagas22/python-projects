@@ -86,6 +86,10 @@ for coding interviews.
 3. Kth Largest Element in Stream
 4. ...
 
+### Hashmap
+1. Unique Email Address
+2. ...
+
 ### Others
 1. Move Zeroes
 2. Intersection of Two Arrays
