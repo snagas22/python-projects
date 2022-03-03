@@ -72,7 +72,8 @@ for coding interviews.
 ### Graphs/BFS/DFS
 1. word ladder
 2. number of islands
-3. ...
+3. Max Area of Island
+4. ...
 
 ### Sliding Window
 1. Minimum Size Subarray Sum
