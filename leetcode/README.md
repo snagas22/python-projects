@@ -66,7 +66,8 @@ for coding interviews.
 5. convert sorted array to BST
 6. minimum depth of binary tree
 7. has path sum
-8. ...
+8. Merge Two Binary Trees
+9. ...
 
 ### Graphs/BFS/DFS
 1. word ladder
